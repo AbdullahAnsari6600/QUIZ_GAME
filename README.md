@@ -1,5 +1,8 @@
 College IEEE Project
 
+link to the project:   https://abdullahansari6600.github.io/QUIZ_GAME/
+
+
 OVERVIEW:
 
 This project starts at 'index.html' page in which the basic buttons are provided to play the quiz. And the sound used in the quiz is also provided 
