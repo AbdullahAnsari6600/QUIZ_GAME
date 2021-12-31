@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(231, 103, 94);
+}
+
+img{
+    width: 1263px;
+    height: 600px;
+    position: relative;
+}
+
+.audio{
+    display: block;
+    position: absolute;
+}
+
+audio{
+    margin-left: 450px;
+}
